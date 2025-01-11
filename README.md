@@ -324,3 +324,5 @@ Explore upcoming features and priorities on our [Roadmap](https://roadmap.sh/r/o
 ## FAQ
 
 For answers to common questions, issues, and to see a list of recommended models, visit our [FAQ Page](FAQ.md).
+
+this eric's version!
